@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: checkout
+  annotations:
+    github.com/project-slug: savitskias/checkout
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
