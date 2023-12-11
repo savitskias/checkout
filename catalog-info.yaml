@@ -4,6 +4,7 @@ metadata:
   name: checkout
   annotations:
     github.com/project-slug: savitskias/checkout
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
